@@ -1,7 +1,4 @@
-# Desafio-DIO - Criando um repositório
-### Passo a passo de como criar um repositório
-
-##### ETAPA 1
+ETAPA 1
 
 O primeiro passo é entrar no site do GitHub <https://github.com>
 
@@ -11,7 +8,7 @@ Complete as descrições necessárias e escolha se público, em que outras pesso
 
 Marque a opção "Add a README file" e no fim da págica clique no botão "Create repository"
 
-##### ETAPA 2
+ETAPA 2
 
 Caso ainda não tenha instalado, baixe e instale o software Git (BASH)
 Link para download: https://git-scm.com/download/
@@ -21,7 +18,7 @@ Crie uma pasta local no seu computador/dispositivo onde será salvo os arquivos 
 Estando na pasta, clique com o botão direito do mouse na opção: "Git BASH here"
 O programa irá abrir e então executaremos nossa próxima etapa com a linguagem do git.
 
-##### ETAPA 3
+ETAPA 3
 
 Na página do seu repositório criado clique no botão verde "code", ele dará acesso aos links de acesso ao repositório. Escolha um link e copie-o.
 
